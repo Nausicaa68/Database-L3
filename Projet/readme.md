@@ -10,7 +10,7 @@ Sur cette repository, vous trouverez :
 - un dossier "JavaApp" contenant le code de la petite application en Java (cf partie 5 du sujet, la question bonus)
 
 
-#JavaApp
+# JavaApp
 
 
 Pour l'application java, il est nécessaire d'utiliser phpMyAdmin et de télécharger le driver JDBC mysql-connector (il est normalement déjà dans le dossier lib). 
