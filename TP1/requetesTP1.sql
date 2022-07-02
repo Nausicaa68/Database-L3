@@ -1,3 +1,9 @@
+-- -------------------------------------------------
+-- Nom de la base de donnees : recherche          --
+-- Auteur des requêtes : Nausicaa                 --
+-- -------------------------------------------------
+
+
 -- 1. Liste de tous les budgets triés par ordre décroissant et sans doublons --
 Select distinct BUDGET from projet order by BUDGET DESC ;
 
